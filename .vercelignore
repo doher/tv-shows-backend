@@ -1,0 +1,6 @@
+.agents/
+.idea/
+dist/
+node_modules/
+.env
+.env.*
